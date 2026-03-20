@@ -2,7 +2,7 @@
 
 ## 📄 Relatório Completo
 Clique no link abaixo para visualizar o relatório detalhado em PDF:
-* [Visualizar Relatório de Avaliação de Risco](./Relatorio_Avaliacao_Risco_Caio_Miranda.pdf)
+* [Visualizar Relatório de Avaliação de Risco](./Relatorio-Avaliacao-Risco-Hardening.pdf)
 
 ## 🎯 Descrição do Cenário
 Este projeto simula a atuação de um Analista de Segurança em uma organização de mídia social que sofreu uma violação de dados. O objetivo foi identificar vulnerabilidades críticas e propor métodos de **Network Hardening** para proteger as informações pessoais dos clientes e evitar novos ataques.
