@@ -25,4 +25,4 @@ Com base nas melhores práticas de segurança de rede, as seguintes ações fora
 * Governança de Identidade e Acesso (IAM).
 
 ---
-*Este projeto demonstra habilidades práticas em defesa de redes e resposta a incidentes, focado na integridade e confidencialidade dos dados.*
+*Este projeto faz parte do meu portfólio de Cibersegurança e demonstra habilidades em governança, análise de risco e proteção de infraestrutura.*
